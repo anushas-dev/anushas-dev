@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @init-arch
+- 👋 Hi, I’m Anusha!
 
 <!---
 init-arch/init-arch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
