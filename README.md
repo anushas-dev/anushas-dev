@@ -4,11 +4,6 @@
 - I'd like my profile/projects to sort of be an exploratory journal where I try implementing with new things I've learnt. I'm here to learn, build my network, and collaborate.
 - If you are an Open Source Enthusiast and are getting started, you should definitely join [EddieHub](https://github.com/EddieHubCommunity)
 
-<div class="row">
-<div class="col">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anushas-dev&theme=vue"/>
 <img style="width:300px;height:300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushas-dev"/>
-</div>
-</div>
 
 ![Profile Vistis](https://gpvc.arturio.dev/anushas-dev)
