@@ -9,4 +9,7 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=anushas-dev&theme=juicyfresh&no-bg=true" />
 
+[![Anusha's Holopin board](https://holopin.me/anushas)](https://holopin.io/@anushas)
+
 ![Profile Vistis](https://gpvc.arturio.dev/anushas-dev)
+
