@@ -4,7 +4,6 @@
 - I'm here to learn, build my network, and collaborate.
 - If you are an Open Source Enthusiast and are getting started, you should definitely join [EddieHub](https://github.com/EddieHubCommunity)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=anushas-dev&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=anushas-dev&theme=tokyonight" alt="mystreak"/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=anushas-dev&theme=juicyfresh&no-bg=true" />
