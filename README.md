@@ -29,4 +29,8 @@ Stack I like working on:
 
 <img src="https://github-profile-trophy.vercel.app/?username=anushas-dev&theme=juicyfresh&no-bg=true" />
 
+<img src="https://myreadme.vercel.app/api/embed/anushas-dev?panels=userstatistics,toplanguages,commitgraph" alt="reimaginedreadme" />
+
 [![Anusha's Holopin board](https://holopin.me/anushas)](https://holopin.io/@anushas)
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=anushas-dev)
