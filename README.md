@@ -24,6 +24,10 @@ Stack I like working on:
 ![](https://img.shields.io/badge/FrontEnd-ReactJs-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/FrontEnd-NextJs-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 
+Referral invite to Digital Ocean
+<br>
+<a href="https://www.digitalocean.com/?refcode=29da0435ce32&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg" alt="DigitalOcean Referral Badge" /></a>
+
 <hr>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=anushas-dev&theme=tokyonight" alt="mystreak"/>
 
