@@ -13,7 +13,7 @@ Referral invite to Digital Ocean
 <hr>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=anushas-dev&theme=tokyonight" alt="mystreak"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=anushas-dev" />
+<img src="https://github-profile-trophy.vercel.app/?username=anushas-dev&theme=discord" />
 
 <img src="https://myreadme.vercel.app/api/embed/anushas-dev?panels=userstatistics,toplanguages,commitgraph" alt="reimaginedreadme" />
 
