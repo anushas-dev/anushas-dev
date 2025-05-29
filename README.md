@@ -1,10 +1,11 @@
 <!-- Profile README for anushas-dev -->
 
-<h3 align="center">Hi there, I'm Anusha! 👋</h3>
+<h3 align="left">Hi there, I'm Anusha! 👋
+<br>
+  <a align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=450&lines=Cloud+Enthusiast;Always+Learning" alt="Typing SVG" /></a>
+</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Cloud+Enthusiast;Always+learning+🚀&center=true&width=500&height=45">
-</p>
+
 
 
 🌱 **About Me**
