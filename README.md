@@ -1,19 +1,67 @@
-👋 Hi, I’m Anusha!
-- I like building things, ideas, and concepts.
-- I occasionally blog on <a href="https://anushasridharan.in">Hashnode</a> if I have something interesting to share and something new that I am trying to build/explore. I'd like my space to be an exploratory journal where I try implementing new things I've learnt. 
-- I'm here to learn, build my network, and collaborate.
+<!-- Profile README for anushas-dev -->
 
-<h3> Areas of Interest: </h3>
-🔧 CI/CD Pipelines | ☁️ Cloud Platforms | 🐳 Containers & Orchestration (Docker, Kubernetes) | 🧪 Infrastructure as Code | 🔍 Monitoring & Observability | 🧠 Emerging Tech & Innovation
+<h1 align="center">Hi there, I'm Anusha! 👋</h1>
 
-🚀 I’m particularly interested in collaborating on projects involving Python and Kubernetes. If you’re working on something exciting in this space, feel free to reach out!
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Cloud+Enthusiast;DevOps+Lover;Pythonista;Always+learning+🚀&center=true&width=500&height=45">
+</p>
 
+---
 
-<h4><a href="https://www.digitalocean.com/?refcode=29da0435ce32&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge">Referral Invite | Digital Ocean</a>
-</h4>
+🌱 **About Me**
 
-<img src="https://github-profile-trophy.vercel.app/?username=anushas-dev&theme=discord" />
+- 🛠️ I love building things—ideas, tools, and communities.
+- ✍️ I occasionally blog on [Hashnode](https://anushasridharan.in) about my learning journey and tech explorations.
+- 🤝 Here to learn, network, and collaborate on impactful projects.
+
+---
+
+🔍 **Areas of Interest**
+
+- 🔧 CI/CD Pipelines
+- ☁️ Cloud Platforms
+- 🐳 Containers & Orchestration (Docker, Kubernetes)
+- 🧪 Infrastructure as Code
+- 🔍 Monitoring & Observability
+- 🧠 Emerging Tech & Innovation
+
+---
+
+💡 **Let's Collaborate!**
+
+I'm particularly interested in projects involving **Python** and **Kubernetes**. If you’re working on something exciting in this space, reach out!
+
+---
+
+🌐 **Connect**
+
+- 📝 [Hashnode Blog](https://anushasridharan.in)
+- 🛸 [Digital Ocean Referral](https://www.digitalocean.com/?refcode=29da0435ce32&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
+
+---
+
+🏆 **Achievements & Badges**
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=anushas-dev&theme=discord" />
+</p>
 
 [![Anusha's Holopin board](https://holopin.me/anushas)](https://holopin.io/@anushas)
 
+---
+
+📊 **GitHub Stats**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anushas-dev&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anushas-dev&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushas-dev&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=anushas-dev)
+
+---
+
+_If you like what I do, let's connect and build something amazing together!_
