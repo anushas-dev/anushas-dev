@@ -1,12 +1,11 @@
 <!-- Profile README for anushas-dev -->
 
-<h1 align="center">Hi there, I'm Anusha! 👋</h1>
+<h3 align="center">Hi there, I'm Anusha! 👋</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Cloud+Enthusiast;Always+learning+🚀&center=true&width=500&height=45">
 </p>
 
----
 
 🌱 **About Me**
 
@@ -14,7 +13,6 @@
 - ✍️ I occasionally blog on [Hashnode](https://anushasridharan.in) about my learning journey and tech explorations.
 - 🤝 Here to learn, network, and collaborate on impactful projects.
 
----
 
 🔍 **Areas of Interest**
 
@@ -25,20 +23,17 @@
 - 🔍 Monitoring & Observability
 - 🧠 Emerging Tech & Innovation
 
----
 
 💡 **Let's Collaborate!**
 
 I'm particularly interested in projects involving **Python** and **Kubernetes**. If you’re working on something exciting in this space, reach out!
 
----
 
 🌐 **Connect**
 
 - 📝 [Hashnode Blog](https://anushasridharan.in)
 - 🛸 [Digital Ocean Referral](https://www.digitalocean.com/?refcode=29da0435ce32&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
 
----
 
 🏆 **Achievements & Badges**
 
@@ -48,7 +43,6 @@ I'm particularly interested in projects involving **Python** and **Kubernetes**.
 
 [![Anusha's Holopin board](https://holopin.me/anushas)](https://holopin.io/@anushas)
 
----
 
 📊 **GitHub Stats**
 
@@ -58,10 +52,6 @@ I'm particularly interested in projects involving **Python** and **Kubernetes**.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushas-dev&layout=compact&theme=tokyonight" />
 </p>
 
----
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=anushas-dev)
 
----
-
-_If you like what I do, let's connect and build something amazing together!_
