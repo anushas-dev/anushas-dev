@@ -23,6 +23,13 @@
 - 🔍 Monitoring & Observability
 - 🧠 Emerging Tech & Innovation
 
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
 
 💡 **Let's Collaborate!**
 
@@ -34,6 +41,7 @@ I'm particularly interested in projects involving **Python** and **Kubernetes**.
 - 📝 [Hashnode Blog](https://anushasridharan.in)
 - 🛸 [Digital Ocean Referral](https://www.digitalocean.com/?refcode=29da0435ce32&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
 
+![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
 
 🏆 **Achievements & Badges**
 
