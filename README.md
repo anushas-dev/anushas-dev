@@ -53,5 +53,9 @@ I'm particularly interested in projects involving **Python** and **Kubernetes**.
 </p>
 
 
+<!-- SPONSORSHIP-DATA:START -->
+<!-- SPONSORSHIP-DATA:END -->
+
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=anushas-dev)
 
