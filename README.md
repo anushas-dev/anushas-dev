@@ -49,11 +49,7 @@ I'm particularly interested in projects involving **Python** and **Kubernetes**.
 
 ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
 
-🏆 **Achievements & Badges**
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anushas-dev&theme=discord" />
-</p>
+🏆 **Badges**
 
 [![Anusha's Holopin board](https://holopin.me/anushas)](https://holopin.io/@anushas)
 
