@@ -57,19 +57,5 @@ I'm particularly interested in projects involving **Python** and **Kubernetes**.
 
 [![Anusha's Holopin board](https://holopin.me/anushas)](https://holopin.io/@anushas)
 
-
-📊 **GitHub Stats**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anushas-dev&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anushas-dev&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushas-dev&layout=compact&theme=tokyonight" />
-</p>
-
-
-<!-- SPONSORSHIP-DATA:START -->
-<!-- SPONSORSHIP-DATA:END -->
-
-
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=anushas-dev)
 
