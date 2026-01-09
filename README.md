@@ -38,13 +38,12 @@
 
 I'm particularly interested in projects involving **Python** and **Kubernetes**. If you’re working on something exciting in this space, reach out!
 
-🔗 Referral links for credits, trials, and promos
+🔗 **Referral links for credits, trials, and promos**
 - Use [Lovable Referal](https://lovable.dev/invite/S3E3RJ2) for extra 10 credits on sign up
+- 🛸 [Digital Ocean Referral](https://www.digitalocean.com/?refcode=29da0435ce32&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
 
 🌐 **Connect**
-
 - 📝 [Hashnode Blog](https://anushasridharan.in)
-- 🛸 [Digital Ocean Referral](https://www.digitalocean.com/?refcode=29da0435ce32&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
 
 ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
 
