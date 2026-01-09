@@ -4,9 +4,6 @@
 <a><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=450&lines=Cloud+Enthusiast;Always+Learning" alt="Typing SVG" /></a>
 
 
-
-
-
 🌱 **About Me**
 
 - 🛠️ I love building things—ideas, tools, and communities.
@@ -41,6 +38,8 @@
 
 I'm particularly interested in projects involving **Python** and **Kubernetes**. If you’re working on something exciting in this space, reach out!
 
+🔗 Referral links for credits, trials, and promos
+- Use [Lovable Referal](https://lovable.dev/invite/S3E3RJ2) for extra 10 credits on sign up
 
 🌐 **Connect**
 
