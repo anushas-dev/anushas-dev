@@ -41,6 +41,7 @@ I'm particularly interested in projects involving **Python** and **Kubernetes**.
 🔗 **Referral links for credits, trials, and promos**
 - Use [Lovable Referal](https://lovable.dev/invite/S3E3RJ2) for extra 10 credits on sign up
 - 🛸 [Digital Ocean Referral](https://www.digitalocean.com/?refcode=29da0435ce32&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
+- [Learn Web3](https://learnweb3.io/?invite-code=WkpLQXtK)
 
 🌐 **Connect**
 - 📝 [Hashnode Blog](https://anushasridharan.in)
