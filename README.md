@@ -84,15 +84,10 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anushas-dev&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&cache_seconds=86400" alt="GitHub Stats" width="48%" />
   <img src="https://streak-stats.demolab.com/?user=anushas-dev&theme=github-dark-blue&hide_border=true&cache_seconds=86400" alt="GitHub Streak" width="48%" />
 </p>
 
-### 🏅 Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anushas-dev&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=10" alt="GitHub Trophies" />
-</p>
 
 ### 📊 Contribution Activity
 
