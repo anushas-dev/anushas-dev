@@ -11,7 +11,7 @@
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=anushas-dev" alt="visitors" />
   &nbsp;
-  <img src="https://badges.frappler.com/os/v1/open-source.svg?v=103" alt="Open Source Love" />
+  <img src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red?style=flat&logo=github" alt="Open Source Love" />
 </p>
 
 ---
@@ -195,4 +195,4 @@ I'm particularly interested in projects involving **Kubernetes**, **observabilit
 
 [![Anusha's Holopin board](https://holopin.me/anushas)](https://holopin.io/@anushas)
 
-![Open Source Love](https://badges.frapple.com/os/v1/open-source.svg?v=103)
+![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red?style=flat&logo=github)
